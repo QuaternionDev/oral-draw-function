@@ -33,3 +33,8 @@ See [Option A, B, or C in the main README](https://github.com/QuaternionDev/oral
 
 - The function is stateless; all state lives in the Appwrite database
 - Safe to run frequently — sessions that have already been processed are skipped
+
+## Disclaimer
+
+This project was built with the assistance of AI (Claude by Anthropic). The code, documentation, and design were generated and iterated through a conversational development process.
+---
