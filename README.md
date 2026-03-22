@@ -36,5 +36,6 @@ See [Option A, B, or C in the main README](https://github.com/QuaternionDev/oral
 
 ## Disclaimer
 
-This project was built with the assistance of AI (Claude by Anthropic). The code, documentation, and design were generated and iterated through a conversational development process.
+This project was built with the assistance of Claude by Anthropic. The code, documentation, and design were generated and iterated through a conversational development process. 
+This repo was written by me, with the help of Claude for starting off. (This was my first time building an Appwrite Javascript function)
 ---
